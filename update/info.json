@@ -1,0 +1,10 @@
+[{
+	"project": "app",
+	"name": "应用",
+	"system": "android"
+},
+{
+	"project": "app1",
+	"name": "应用1",
+	"system": "windows"
+}]
