@@ -1,9 +1,0 @@
-{
-	"download": ["exe.txt"],
-	"delete": [],
-	"kill": ["1.exe"],
-	"unzip": [{
-		"name": "1.zip",
-		"unzip": "/1"
-	}]
-}
