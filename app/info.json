@@ -2,9 +2,4 @@
 	"project": "MobileVideo",
 	"name": "汇集影视",
 	"system": "android"
-},
-{
-	"project": "app1",
-	"name": "应用1",
-	"system": "windows"
 }]
